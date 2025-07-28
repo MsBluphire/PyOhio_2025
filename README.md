@@ -1,5 +1,5 @@
 # PyOhio_2025
-When Your SME Ghost You: Using GenAI to Build a Database Documentation Agent
+When Your SME Ghosts You: Using GenAI to Build a Database Documentation Agent
 
 # 🗂️ Database Documentation Agent (aka SME Ghost Protocol)
 
