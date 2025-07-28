@@ -46,7 +46,6 @@ This repo includes:
 
 ```bash
 ├── sme_ghost_protocol.ipynb           # Kaggle Notebook (MVP)
-├── When Your SME Ghost You.pdf        # Conference Presentation Slides
-├── prompts/                           # Sample prompt templates (optional)
+├── When Your SME Ghosts You.pdf        # Conference Presentation Slides                        
 └── README.md                          # This file
 
