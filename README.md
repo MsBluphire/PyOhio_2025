@@ -45,7 +45,7 @@ This repo includes:
 ## 📂 Contents
 
 ```bash
-├── sme_ghost_protocol.ipynb           # Kaggle Notebook (MVP)
-├── When Your SME Ghosts You.pdf       # Conference Presentation Slides                        
-└── README.md                          # This file
+├── sme_ghost_protocol.ipynb               # Kaggle Notebook (MVP)
+├── When Your SME Ghosts You_slides.pdf    # Conference Presentation Slides                        
+└── README.md                              # This file
 
